@@ -1,5 +1,7 @@
 import React from "react";
+import Article from "./ Articles";
 const Home = () => {
- return <p>Home</p>;
+ return <Article />;
+ 
 }
 export default Home;
